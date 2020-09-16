@@ -10,4 +10,4 @@ puts idx
 end
 
 name = ["ellaine", "ella", "kim"]
-find_element_index(name, "kim")
+find_element_index(name, "ellaine")
