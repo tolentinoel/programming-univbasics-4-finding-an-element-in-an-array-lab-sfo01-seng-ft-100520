@@ -9,4 +9,4 @@ end
 end
 
 name = ["ellaine", "ella", "kim"]
-find_element_index(name, "ellaine")
+find_element_index(name, "kim")
